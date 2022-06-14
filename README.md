@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aleksandrino04
 - 👀 I’m interested in Football., Coding
 - 🌱 I’m currently learning C# Fundamentals
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all kinds of  projects
 - 📫 How to reach me: alexdimitrov2004900@gmail.com
 
 <!---
